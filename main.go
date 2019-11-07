@@ -14,7 +14,11 @@ func main() {
 	fmt.Println(result)
 
 
-		res2:=calc.Div(60,20)
+
+
+	res2 := calc.Div(60, 20)
+	fmt.Println("div called")
+
 	fmt.Println(res2)
 
 
