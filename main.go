@@ -9,5 +9,8 @@ func main() {
 
 		res:=calc.Add(10,20)
 		fmt.Println(res)
+
+		result:=calc.Sub(30,10)
+		fmt.Println(result)
 	}
 
