@@ -24,4 +24,7 @@ func main() {
 
 	res1 := calc.Multi(10, 20)
 	fmt.Println(res1)
+
+	res3:= calc.Github(30, 20)
+	fmt.Println(res3)
 }
