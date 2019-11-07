@@ -1,5 +1,6 @@
-package main
+package calc
 
-func main() {
-	$END$
+func Multi(a,b int)int {
+	return a*b
 }
+
